@@ -1,0 +1,8 @@
+.todosLength {
+  border: 0px;
+  padding: 5px;
+  border-radius: 25%;
+  background-color: gainsboro;
+  color: goldenrod;
+  font-weight: bolder;
+}

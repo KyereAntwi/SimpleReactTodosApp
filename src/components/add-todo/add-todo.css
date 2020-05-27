@@ -1,0 +1,8 @@
+.addtodo {
+  margin-top: 20px;
+}
+
+.addtodo input {
+  width: 86%;
+  padding: 2%;
+}

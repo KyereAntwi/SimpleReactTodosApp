@@ -1,0 +1,25 @@
+.todo {
+  padding: 2%;
+  box-sizing: border-box;
+  background-color: grey;
+  color: goldenrod;
+  font-weight: bolder;
+  margin-top: 10px;
+}
+
+.todo:hover {
+  background-color: darkslategrey;
+  color: white;
+  cursor: pointer;
+}
+
+.todo input {
+  float: left;
+  color: goldenrod;
+}
+
+.todo button {
+  float: right;
+  background-color: tomato;
+  color: white;
+}

@@ -1,0 +1,15 @@
+.todoList {
+  margin-top: 20px;
+  max-height: 350px;
+  overflow-x: none;
+  overflow-y: auto;
+}
+
+.todoList ::-webkit-scrollbar {
+  width: 2px;
+}
+
+.todoList ::-webkit-scrollbar-thumb {
+  background-color: goldenrod;
+  border-radius: 20px;
+}
